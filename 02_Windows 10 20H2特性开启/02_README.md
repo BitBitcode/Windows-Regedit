@@ -4,7 +4,7 @@
 
 今年是 Windows 10 操作系统发布的第五年，作为这个操作系统中最为重要的组成部分之一，开始菜单一直以来都更像是 Windows 8.x 动态磁贴与经典开始菜单的融合产物，在这五年当中的变化并不算大。
 
-![img](images/README/640)
+![img](images/02_README/640)
 
 当前 Windows 10 的开始菜单
 
@@ -16,11 +16,11 @@
 
 也许是 Insider 测试过程中收获了太多好评，虽然上面提到的这些新设计大多都要到 20H2 更新中才会实装，新版开始菜单却提前来到了正式版 Windows 10 v2004 当中——虽然它并非默认开启，我们依然可以通过一些简单的操作进行开启。
 
-![img](images/README/640)
+![img](images/02_README/640)
 
 首先确认当前的 Windows 10 版本是最新的 v2004，版本号 19041（可在「Windows 设置 > 系统 > 关于」中查看），也就是最新的 Windows 10 五月更新。
 
-![img](images/README/640)
+![img](images/02_README/640)
 
 确保版本为 2004
 
@@ -41,23 +41,23 @@ Windows Registry Editor Version 5.00
 
 双击刚才新建的 20H2.reg 文件，在弹出的警告中点击「是」，然后再次重启电脑。
 
-![img](images/README/640)
+![img](images/02_README/640)
 
 点击「是」确定
 
 重启完毕之后点击开始按钮，采用全新设计的开始菜单就出现在我们眼前了。
 
-![img](images/README/640)
+![img](images/02_README/640)
 
 是不是比开头那张图里的效果好看多了？
 
 随之而来的还有新版 Alt+Tab 界面和新的系统通知设计，如果你正在使用采用 Chromium 内核的新版 Edge 浏览器，新版 Alt+Tab 界面会把浏览器标签页面直接整合在任务切换操作当中。
 
-![img](images/README/640)
+![img](images/02_README/640)
 
 整合了浏览器标签页面的多任务切换
 
-![img](images/README/640)
+![img](images/02_README/640)
 
 新的通知设计
 
@@ -65,13 +65,13 @@ Windows Registry Editor Version 5.00
 
 目前 Windows insider 预览计划中分为不同的频道，其中 Dev 频道已经开始测试 21H1 的相关内容，而如果你只希望可以稍微提前一点获得 Windows 10 新功能（比如上面提到的新版开始菜单），直接加入 Beta 频道参与测试即可。
 
-![img](images/README/640)
+![img](images/02_README/640)
 
 Windows Insider 官网介绍
 
 加入方法也很简单， 在「Windows 设置 - 更新和安全 - 预览体验计划」中点击开始，选择对应频道后点击 Windows 更新就能获取到测试版系统更新推送了。
 
-![img](images/README/640)
+![img](images/02_README/640)
 
 预览体验计划设置
 
